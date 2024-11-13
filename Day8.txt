@@ -1,0 +1,4 @@
+The maven commands for different phases are 
+i) For compile phase - compiler:compile
+ii) For test phase - compiler:testCompile
+iii) For package phase - jar:jar
